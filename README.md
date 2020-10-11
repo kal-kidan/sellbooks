@@ -1,0 +1,2 @@
+# sellbooks
+This is a platform to sell used books online and it is developed using laravel. Users can create account and they can post books that they want to sell it. On the other hand users can search books by their title, author or category then they will be presented with search result which contains the book detail including the book image and about the book. When user click buy now it will send notification to the book owner or user can directly contact the book owner by sending message. The platform gives facility for the users to chat.
